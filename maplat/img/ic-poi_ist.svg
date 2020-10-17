@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic-poi_ist" transform="translate(-303 -440)">
+    <g id="ic-poi_ist-2" data-name="ic-poi_ist" transform="translate(307 440)">
+      <path id="パス_67" data-name="パス 67" d="M9.076,8.77H2v1.385H9.076Zm2-2.77H2V7.385h9.076ZM2,12.926H9.076V11.541H2Z" transform="translate(0 0)" fill="#333"/>
+      <path id="パス_68" data-name="パス 68" d="M18.146,9.984a3.122,3.122,0,0,0-3.123,3.124c0,2.343,3.123,5.8,3.123,5.8s3.124-3.459,3.124-5.8A3.122,3.122,0,0,0,18.146,9.984Zm0,4.24a1.116,1.116,0,1,1,1.116-1.116A1.117,1.117,0,0,1,18.146,14.224Z" transform="translate(-5.004 -1.247)" fill="#333"/>
+    </g>
+    <rect id="長方形_72" data-name="長方形 72" width="24" height="24" transform="translate(303 440)" fill="none"/>
+  </g>
+</svg>

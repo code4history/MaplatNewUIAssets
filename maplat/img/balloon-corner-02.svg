@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="16" viewBox="0 0 21 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_188" data-name="長方形 188" width="21" height="16" transform="translate(3381 875)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="balloon-corner-02" transform="translate(-3381 -875)" clip-path="url(#clip-path)">
+    <path id="合体_10" data-name="合体 10" d="M20.826,47a15.993,15.993,0,0,1-13.86-8H0l5.028-5.452A16.013,16.013,0,0,1,20.826,15h224a16,16,0,1,1,0,32Z" transform="translate(3402 922) rotate(180)" fill="rgba(42,127,213,0.18)"/>
+  </g>
+</svg>
